@@ -46,7 +46,7 @@
   }
   
   nav {
-    padding: 64px;
+    padding: 61px;
     grid-area: timeline;
   
     overflow-y: scroll;
@@ -74,7 +74,7 @@
   
   .memory img {
     width: 100%;
-    height: 280px;
+    height: 210px;
     object-fit: cover;
     border-radius: 8px;
   
